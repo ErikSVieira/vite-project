@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Valentino Rossi",
+        "nationality": "Italy",
+        "number": 46,
+        "cardName": "valentino-rossi",
+        "description": "Valentino Rossi, conhecido como“O Doutor“, revolucionou o mundo do MotoGP. Com nove títulos mundiais, 115 vitórias e um carisma único, Rossi deixou uma marca indelével no coração dos fãs. Rossi é o único piloto a ter ganho um campeonato do mundo em quatro categorias, tendo triunfado nas 125, 250, 500 e MotoGP. Rossi é o piloto que ajudou a transformar um desporto de nicho num espetáculo de massas. A sua capacidade de furar o ecrã e de comunicar fez do motociclismo o desporto popular que é, e não apenas em Itália. As bancadas amarelas e os milhares de fãs com o seu merchandising foram uma constante durante a era dourada de Valentino em todos os circuitos do mundo."
+    },
+    {
+        "id": 2,
+        "name": "Marc Marquez",
+        "nationality": "Español",
+        "number": 93,
+        "cardName": "marc-marquez",
+        "description": "Marc Márquez, com a sua agressividade e técnica inovadora, ganhou oito títulos mundiais em todas as classes, incluindo seis na categoria rainha. A sua capacidade de atingir o limite em cada corrida faz dele um dos pilotos mais emocionantes de sempre. Talvez a comparação com um dos grandes nomes da Fórmula 1, Senna, pareça exagerada, mas em cada saída de Márquez para a pista, tal como acontecia com Senna, é possível ver coisas excepcionais. Marquez parece ser o único piloto potencialmente capaz de ultrapassar Valentino neste momento. Uma série de problemas físicos atrasou Marc Marquez nos últimos anos, mas a sua nova forma física e a mudança para a Ducati são um bom presságio para a melhoria do seu palmarés."
+    },
+    {
+        "id": 3,
+        "name": "Jorge Lorenzo",
+        "nationality": "Español",
+        "number": 99,
+        "cardName": "jorge-lorenzo",
+        "description": "Jorge Lorenzo é famoso pelo seu estilo de condução limpo e pela sua constante procura da perfeição. Ganhou cinco títulos mundiais , dois em 250 com a Aprilia e três em MotoGP com a Yamaha, e um total de 68 corridas, demonstrando uma consistência raramente vista no motociclismo de alta competição. Conhecido pela sua determinação e atenção maníaca aos pormenores, Lorenzo abordou toda a sua carreira com uma atitude decisiva, por vezes confundida com arrogância. A coabitação com Rossi na Yamaha e o famoso muro de separação entre as boxes são o testemunho do respeito de Rossi pelo estreante Lorenzo, com quem não queria partilhar dados, e as batalhas em pista que se seguiram foram durante anos uma das melhores coisas do motociclismo de qualquer época. Uma transição infeliz para a Ducati, da qual foi despedido quando começava a ganhar, e uma experiência falhada com a Honda levaram à sua reforma, privando-nos de um piloto capaz, nos dias bons, de impor ritmos insuportáveis aos adversários e corridas a solo semelhantes às que Max Biaggi nos dava."
+    },
+    {
+        "id": 4,
+        "name": "Casey Stoner",
+        "nationality": "Australia",
+        "number": 27,
+        "cardName": "casey-stoner",
+        "description": "Casey Stoner, conhecido pelo seu estilo de condução único e capacidade natural, ganhou dois títulos mundiais de MotoGP. A sua capacidade de vencer com diferentes fabricantes de motas, Ducati e Honda, mostra a sua versatilidade e talento puro. Stoner foi um canibal, não concedendo nada aos seus rivais desde o primeiro treino livre, apenas algumas voltas para se colocar no topo da lista de tempos e estabelecer desde o início quem estava no comando. Capaz de conduzir por instinto e acima dos problemas, Casey era uma mistura de talento cristalino, sensibilidade única e velocidade incrível. Logo na sua estreia no MotoGP com a LCR Team mostrou do que era feito. Durante anos, dizia-se que ele era o único capaz de tirar o melhor partido de motas difíceis como as Ducatis da altura. As famosas discussões dentro e fora da pista com Valentino e a famosa ultrapassagem no saca-rolhas de Laguna Seca com as rodas de Valentino no chão e bem acima do lancil. Alguns problemas físicos e um mal-estar com o ambiente do MotoGP levaram Stoner a retirar-se muito jovem. Aos 27 anos, decidiu ir pescar e dedicar-se à sua família. É pena que não tenha podido desfrutar do que fazia nas pistas durante mais alguns anos."
+    },
+    {
+        "id": 5,
+        "name": "Michael Doohan",
+        "nationality": "Australia",
+        "number": 1,
+        "cardName": "michael-doohan",
+        "description": "Mick Doohan, australiano, ganhou cinco títulos mundiais consecutivos na classe de 500cc. De 1994 a 1998, era simplesmente impossível terminar melhor do que o segundo lugar na pista. O domínio de Mick era absoluto e impossível de contrariar. Uma carreira de grande sucesso, mas pontuada por acidentes. O acidente muito grave em Assen, em 1992, não conseguiu diminuir a sua vontade de competir e de ganhar, e os Campeonatos do Mundo que ganhou nos anos seguintes são disso testemunho. No entanto, teve de desistir em 1999, quando outro acidente desastroso o obrigou a retirar-se."
+    },
+    {
+        "id": 6,
+        "name": "Giacomo Agostini",
+        "nationality": "Italy",
+        "number": 46,
+        "cardName": "giacomo-agostini",
+        "description": "Giacomo Agostinicom 15 títulos mundiais e 122 vitórias em corridas, continua a ser uma lenda indiscutível do MotoGP e o piloto mais bem sucedido do MotoGP. A sua capacidade de dominar as classes de 350cc e 500cc faz dele um piloto sem paralelo na história do motociclismo. “Atrás“Correu e ganhou numa altura em que também se corria em estrada, sendo os 10 triunfos no Troféu Turista lendários a este respeito. Na sua carreira histórica, a passagem MVAgusta para Yamaha que, apesar de ter trazido milhares de controvérsias, deu a Ago um Campeonato do Mundo nas 350 em 1974, um nas 500 em 1975, bem como uma vitória muito prestigiante na sua estreia com a marca japonesa, e à frente do seu companheiro de equipa Kenny Roberts na corrida das 200 milhas de Daytona em 1974. Agostini foi uma das primeiras estrelas das duas rodas a aparecer em anúncios de televisão ou em filmes como este “Bolides no asfalto a todo o gás”, que dá uma boa ideia de como a sua popularidade tinha transcendido os portões da pista."
+    },
+    {
+        "id": 7,
+        "name": "Francesco Bagnaia",
+        "nationality": "Italy",
+        "number": 1,
+        "cardName": "francesco-bagnaia",
+        "description": "Francesco Bagnaia é um motociclista italiano, atualmente compete na MotoGP™ pela Ducati Lenovo Team. Foi campeão da MotoGP em 2022 e em 2023 pela equipe oficial da Ducati. Ele é o primeiro piloto da academia de pilotos VR46 a vencer um título mundial na categoria rainha da MotoGP."
+    },
+    {
+        "id": 8,
+        "name": "Mike Hailwood",
+        "nationality": "United Kingdom",
+        "number": 12,
+        "cardName": "mike-hailwood",
+        "description": "Mike Hailwood, apelidado de “Mike the Bike“, ganhou nove títulos mundiais, quatro nas 500, dois nas 350 e três nas 250, num total de 76 vitórias. Números que o colocam entre os pilotos mais bem sucedidos de sempre. O que é recordado e o que distinguiu Hailwood foi a versatilidade e a coragem. De 1963 a 1974, competiu na Fórmula 1 e, simultaneamente, conquistou títulos mundiais em duas rodas. A sua carreira abrange várias épocas do motociclismo e faz dele um ícone intemporal. Regresso incrível após uma ausência de 11 anos da Ilha de Man no Tourist Trophy de 1978, que culminou com uma vitória com a Ducati 900 SS F1."
+    }
+]

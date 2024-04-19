@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Oxanium, cursive, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body::before {
+    content: "";
+    background-image: url(../images/bg-motogp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    opacity: 0.2;
+}
+
+/* Header */
+.cabecalho {
+    display: flex;
+    justify-content: center;
+}
+
+.cabecalho .logo {
+    max-width: 300px;
+}
+
+/* Main */
+.selecao-de-pilotos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    gap: 30px;
+    min-height: calc(100vh - 152px);
+    padding: 0 15px;
+}
+
+/* 1ª Section */
+.pilotos {
+    width: 50%;
+    max-width: 640px;
+}
+
+.selecao-de-pilotos .titulo {
+    font-size: 20px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    border-bottom: 5px solid #47f4ff;
+}
+
+.selecao-de-pilotos .lista-de-pilotos {
+    list-style: none;
+    gap: 30px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.selecao-de-pilotos .pilotos {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+}
+
+.lista-de-pilotos .piloto img {
+    width: 100%;
+    height: 100%;
+}
+
+.lista-de-pilotos .piloto.selecionado {
+    box-shadow: 0px 0px 24px 5px #0271f7;
+}
+
+/* 2ª Section */
+.piloto-selecionado {
+    width: 50%;
+    max-width: 640px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.piloto-selecionado .piloto-grande {
+    width: 430px;
+    height: 430px;
+}
+
+.informacoes-piloto {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 25px;
+}
+
+.piloto-selecionado .nome-piloto {
+    border-bottom: 5px solid #47f4ff;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+.piloto-selecionado .descricao-piloto {
+    font-size: 16px;
+    line-height: 22px;
+}
+/* End */
+
+/* Responsivo */
+@media (max-width: 1120px) {
+    /* Header */
+    .cabecalho .logo {
+        max-width: 190px;
+    }
+
+    /* Main */
+    .selecao-de-pilotos {
+        flex-direction: column-reverse;
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 0 15px;
+        gap: 20px;
+    }
+
+    /* 1ª Section */
+    .pilotos {
+        width: 100%;
+    }
+
+    .selecao-de-pilotos .pilotos .titulo {
+        font-size: 15px;
+    }
+
+    .selecao-de-pilotos .pilotos {
+        gap: 10px;
+    }
+
+    .selecao-de-pilotos .lista-de-pilotos {
+        gap: 10px;
+    }
+
+    .lista-de-pilotos .piloto img{
+        max-width: 60px;
+    }
+
+    /* 2ª Section */
+    .piloto-selecionado {
+        width: 100%;
+    }
+
+    .piloto-selecionado .nome-piloto {
+        font-size: 15px;
+    }
+
+    .piloto-selecionado .descricao-piloto {
+        max-width: 100%;
+        font-size: 11px;
+    }
+
+    .informacoes-piloto {
+        gap: 10px;
+    }
+
+}
+
+@media (max-width: 460px) {
+    .piloto-selecionado .piloto-grande {
+        width: 100%;
+        height: 100%;
+    }
+}
+/* End Responsivo */
